@@ -1,0 +1,111 @@
+*
+{
+    box-sizing: border-box;
+}
+.logo{
+    position: relative;
+    bottom: 830px;
+    left: 57px;
+}
+.st{
+    width: 10px;
+    height: 5px;
+    color: white;
+    position: relative;
+    bottom: 870px;
+    left: 180px;
+}
+.sh{
+    width: 10px;
+    height: 5px;
+    color: rgb(198, 188, 188);
+    position: relative;
+    bottom: 890px;
+    left: 230px;
+}
+.mov{
+    width: 10px;
+    height: 5px;
+    color: rgb(199, 188, 188);
+    position: relative;
+    bottom: 911px;
+    left: 280px;
+}
+.new{
+    width: 10px;
+    height: 5px;
+    color: rgb(217, 208, 208);
+    position: relative;
+    bottom: 931px;
+    left: 350px;
+}
+.lis{
+    width: 10px;
+    height: 5px;
+    color: rgb(218, 210, 210);
+    position: relative;
+    bottom: 951px;
+    left: 400px;
+}
+.sch{
+    position: relative;
+    bottom: 980px;
+    left: 1300px;
+}
+.gif{
+    position: relative;
+    bottom: 980px;
+    left: 1320px;
+}
+.bell{
+    position: relative;
+    bottom: 980px;
+    right: 100px;
+
+}
+.bell{
+    position: relative;
+    bottom: 980px;
+    right: 100px;
+
+}
+.pic{
+    position: relative;
+    bottom: 980px;
+    left: 1300px;
+}
+.n{
+    position: relative;
+    bottom: 620px;
+    left:0px;
+}
+.sho{
+    position: relative;
+    bottom: 670px;
+    left:130px;
+    color: white;
+}
+.blo{
+    position: relative;
+    bottom: 760px;
+    left: 90px;
+    color: white;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+button{
+    position: relative;
+    bottom: 870px;
+    left: 90px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 1cqb;
+}
+.arr{
+    position: relative;
+    bottom: 980px;
+    left: 1320px;
+}
